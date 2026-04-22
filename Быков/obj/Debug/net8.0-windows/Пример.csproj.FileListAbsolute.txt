@@ -1,0 +1,16 @@
+C:\Users\maxim\source\repos\DZ\DZ-master\bin\Debug\net8.0-windows\Пример.exe
+C:\Users\maxim\source\repos\DZ\DZ-master\bin\Debug\net8.0-windows\Пример.deps.json
+C:\Users\maxim\source\repos\DZ\DZ-master\bin\Debug\net8.0-windows\Пример.runtimeconfig.json
+C:\Users\maxim\source\repos\DZ\DZ-master\bin\Debug\net8.0-windows\Пример.dll
+C:\Users\maxim\source\repos\DZ\DZ-master\bin\Debug\net8.0-windows\Пример.pdb
+C:\Users\maxim\source\repos\DZ\DZ-master\obj\Debug\net8.0-windows\Пример.Form1.resources
+C:\Users\maxim\source\repos\DZ\DZ-master\obj\Debug\net8.0-windows\Пример.csproj.GenerateResource.cache
+C:\Users\maxim\source\repos\DZ\DZ-master\obj\Debug\net8.0-windows\Пример.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxim\source\repos\DZ\DZ-master\obj\Debug\net8.0-windows\Пример.AssemblyInfoInputs.cache
+C:\Users\maxim\source\repos\DZ\DZ-master\obj\Debug\net8.0-windows\Пример.AssemblyInfo.cs
+C:\Users\maxim\source\repos\DZ\DZ-master\obj\Debug\net8.0-windows\Пример.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\DZ\DZ-master\obj\Debug\net8.0-windows\Пример.dll
+C:\Users\maxim\source\repos\DZ\DZ-master\obj\Debug\net8.0-windows\refint\Пример.dll
+C:\Users\maxim\source\repos\DZ\DZ-master\obj\Debug\net8.0-windows\Пример.pdb
+C:\Users\maxim\source\repos\DZ\DZ-master\obj\Debug\net8.0-windows\Пример.genruntimeconfig.cache
+C:\Users\maxim\source\repos\DZ\DZ-master\obj\Debug\net8.0-windows\ref\Пример.dll
